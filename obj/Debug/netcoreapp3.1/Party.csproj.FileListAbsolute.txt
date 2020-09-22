@@ -1,0 +1,39 @@
+C:\Users\ASUS\Desktop\Party\bin\Debug\netcoreapp3.1\Party.exe
+C:\Users\ASUS\Desktop\Party\bin\Debug\netcoreapp3.1\Party.deps.json
+C:\Users\ASUS\Desktop\Party\bin\Debug\netcoreapp3.1\Party.runtimeconfig.json
+C:\Users\ASUS\Desktop\Party\bin\Debug\netcoreapp3.1\Party.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Party\bin\Debug\netcoreapp3.1\Party.dll
+C:\Users\ASUS\Desktop\Party\bin\Debug\netcoreapp3.1\Party.pdb
+C:\Users\ASUS\Desktop\Party\obj\Debug\netcoreapp3.1\Party.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Party\obj\Debug\netcoreapp3.1\Party.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Party\obj\Debug\netcoreapp3.1\Party.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Party\obj\Debug\netcoreapp3.1\Party.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Party\obj\Debug\netcoreapp3.1\Party.dll
+C:\Users\ASUS\Desktop\Party\obj\Debug\netcoreapp3.1\Party.pdb
+C:\Users\ASUS\Desktop\Party\obj\Debug\netcoreapp3.1\Party.genruntimeconfig.cache
+C:\Users\Ali\Desktop\Party\Party\bin\Debug\netcoreapp3.1\Party.exe
+C:\Users\Ali\Desktop\Party\Party\bin\Debug\netcoreapp3.1\Party.deps.json
+C:\Users\Ali\Desktop\Party\Party\bin\Debug\netcoreapp3.1\Party.runtimeconfig.json
+C:\Users\Ali\Desktop\Party\Party\bin\Debug\netcoreapp3.1\Party.runtimeconfig.dev.json
+C:\Users\Ali\Desktop\Party\Party\bin\Debug\netcoreapp3.1\Party.dll
+C:\Users\Ali\Desktop\Party\Party\bin\Debug\netcoreapp3.1\Party.pdb
+C:\Users\Ali\Desktop\Party\Party\obj\Debug\netcoreapp3.1\Party.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\Party\Party\obj\Debug\netcoreapp3.1\Party.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Party\Party\obj\Debug\netcoreapp3.1\Party.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\Party\Party\obj\Debug\netcoreapp3.1\Party.AssemblyInfo.cs
+C:\Users\Ali\Desktop\Party\Party\obj\Debug\netcoreapp3.1\Party.dll
+C:\Users\Ali\Desktop\Party\Party\obj\Debug\netcoreapp3.1\Party.pdb
+C:\Users\Ali\Desktop\Party\Party\obj\Debug\netcoreapp3.1\Party.genruntimeconfig.cache
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\bin\Debug\netcoreapp3.1\Party.exe
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\bin\Debug\netcoreapp3.1\Party.deps.json
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\bin\Debug\netcoreapp3.1\Party.runtimeconfig.json
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\bin\Debug\netcoreapp3.1\Party.runtimeconfig.dev.json
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\bin\Debug\netcoreapp3.1\Party.dll
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\bin\Debug\netcoreapp3.1\Party.pdb
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\obj\Debug\netcoreapp3.1\Party.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\obj\Debug\netcoreapp3.1\Party.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\obj\Debug\netcoreapp3.1\Party.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\obj\Debug\netcoreapp3.1\Party.AssemblyInfo.cs
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\obj\Debug\netcoreapp3.1\Party.dll
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\obj\Debug\netcoreapp3.1\Party.pdb
+C:\Users\Ali\Desktop\Desktop\Dersler ve Ödevler\ÖDEVLER\Operating Systems\OS VİZE\Party\obj\Debug\netcoreapp3.1\Party.genruntimeconfig.cache
